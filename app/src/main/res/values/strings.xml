@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"><i>Simple Calculator</i></string>
+    <string name="calc_ttl"><u>Simple Calculator</u></string>
+    <string name="mEdtFirstnum">Enter first number</string>
+    <string name="mEdtSecondnum">Enter second number</string>
+    <string name="mBtnAdd">Add</string>>
+    <string name="defValue">0.00</string>
+    <string name="mBtnSub">Subtract</string>
+    <string name="mBtnMul">Multiply</string>
+    <string name="mBtnDiv">Divide"></string>
+</resources>
