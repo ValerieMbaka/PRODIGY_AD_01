@@ -8,4 +8,5 @@
     <string name="mBtnSub">Subtract</string>
     <string name="mBtnMul">Multiply</string>
     <string name="mBtnDiv">Divide"></string>
+    <string name="mTvAnswer">Answer</string>
 </resources>
